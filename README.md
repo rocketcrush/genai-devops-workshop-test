@@ -62,4 +62,4 @@
 - Make sure to stop/delete your codespace if you're not using it
     - Page to manage your codespaces <https://github.com/codespaces>
 - To run the codespaces :
-    - [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jedi4ever/genai-devops-workshop)
+    - [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jedi4ever/genai-devops-workshop-test)
