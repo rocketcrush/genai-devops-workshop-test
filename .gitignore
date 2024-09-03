@@ -1,0 +1,21 @@
+#Ignore env files
+.env
+logs/
+flagged/
+__pycache__/
+logs
+.aider*
+chromadb/
+# ignore weights
+*.pth
+# ignore lancedb
+*.lance
+screenshot*.png
+tmp/
+chroma_db
+*.db
+*.sqlite3
+.DS_Store
+*.bin
+output.log
+*_cache*
